@@ -1,0 +1,7 @@
+code: seed-content-types
+description: A set of content types from the seed bank demo
+components:
+  contentTypes:
+    - contentTypes/bnr-descriptor.yaml
+    - contentTypes/mpc-descriptor.yaml
+    - contentTypes/prd-descriptor.yaml
